@@ -1,8 +1,7 @@
 .main{
 Width: 200px;
 Background-color: purple;
-border-left-color: green;
-text-decoration-thickness: 5px;
+border-left:5px solid green;
 Padding: 10px;
 }
 .main h1{
