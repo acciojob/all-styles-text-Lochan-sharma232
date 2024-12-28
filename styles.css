@@ -1,8 +1,8 @@
 .main{
 Width: 200px;
 Background-color: purple;
-Left side border-color: green;
-Left-side border-thickness: 5px;
+border-left-color: green;
+text-decoration-thickness: 5px;
 Padding: 10px;
 }
 .heading{
