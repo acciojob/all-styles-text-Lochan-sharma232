@@ -1,11 +1,11 @@
-.Container{
+.main{
 Width: 200px;
 Background-color: purple;
 Left side border-color: green;
-Left side border-thickness: 5 px;
-Padding on all sides: 10 px;
+Left-side border-thickness: 5px;
+Padding: 10px;
 }
-Heading{
+heading{
 Font-size: 20 px;
 Text-color: white;
 Text-decoration: underline;
